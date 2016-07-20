@@ -11,7 +11,7 @@ Official Webiste for Sahib's Grill Kitchen, a restaurant based in Kannur, Kerala
 
 ## Authors
 
-* **Arun John Kuruvilla** [Arun John Kuruvilla](https://github.com/arunjohnkuruvilla)
+* [Arun John Kuruvilla](https://github.com/arunjohnkuruvilla)
 
 ## Acknowledgments
 
